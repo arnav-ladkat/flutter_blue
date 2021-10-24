@@ -1,3 +1,15 @@
+## Whats New / Different in this Repository ?
+
+- _As the Flutter Blue Library has not been maintained in a long, platform specific edits and updates have been compiled here , till the Pull requests have been merged._
+- _Flutter Does not have an official bluetooth library_
+
+Issues that are fixed in this repo :
+1. App asks for bluetooth permission on start on iOs Devices.
+2. Support for Apple M1 Devices.
+
+Better Alternatives :
+-  [boskokg Alternative](https://github.com/boskokg/flutter_blue)
+
 [![pub package](https://img.shields.io/pub/v/flutter_blue.svg)](https://pub.dartlang.org/packages/flutter_blue)
 [![Chat](https://img.shields.io/discord/634853295160033301.svg?style=flat-square&colorB=758ED3)](https://discord.gg/Yk5Efra)
 
